@@ -15,7 +15,7 @@
 
 - [専門用語の使用をそろえる](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L10)
 - [二重否定は使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L28)
-- [不正確な表現（非常に、とても、すごく）を使用しない(]https://github.com/continuous-manual-writing/book-source/blob/master/js/ambiguous-expression.js)
+- [不正確な表現（非常に、とても、すごく）を使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/js/ambiguous-expression.js)
 - [ですます調を使用する](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L21)
 - [「（の） + 名詞連続 + （の）」パターンを使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/js/doubled_no.js)
 - [正式な送り仮名を使用する](https://github.com/continuous-manual-writing/book-source/blob/master/js/okurigana.js)
