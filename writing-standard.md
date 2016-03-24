@@ -15,13 +15,13 @@
 
 - [専門用語の使用をそろえる](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L10)
 - [二重否定は使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L28)
-- [不正確な表現（非常に、とても、すごく）を使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/js/ambiguous-expression.js)
+- [不正確な表現（若干、少々、簡単など）を使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/js/ambiguous-expression.js)
 - [ですます調を使用する](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L21)
 - [「（の） + 名詞連続 + （の）」パターンを使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/js/doubled_no.js)
 - [正式な送り仮名を使用する](https://github.com/continuous-manual-writing/book-source/blob/master/js/okurigana.js)
 - [一部の漢字についてはひらがな書きを使用する](https://github.com/continuous-manual-writing/book-source/blob/master/js/unsuggested-kanji.js)
   - ひらがな書きを使用する漢字：事、通り、有る、無い
-- [連続して同じ表現から文を開始しない](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L29)
+- [同じ表現から文を開始しすぎない](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L29)
 - [感嘆符、疑問符を使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/js/japanese_emotional_sentence.js)
 - 漢字を使いすぎない
 - [章や節の参照には、半角アラビア数字（"第2章"、"第3節"）を使用する](https://github.com/continuous-manual-writing/book-source/blob/master/js/japanese_anchor_expression.js)
